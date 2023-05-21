@@ -1,19 +1,19 @@
 export const navigation = [
+  // {
+  //   text: 'Home',
+  //   path: '/home',
+  //   icon: 'home'
+  // },
   {
-    text: 'Home',
-    path: '/home',
-    icon: 'home'
-  },
-  {
-    text: 'Examples',
+    text: 'Loan Calculator',
     icon: 'folder',
     items: [
+      // {
+      //   text: 'Profile',
+      //   path: '/profile'
+      // },
       {
-        text: 'Profile',
-        path: '/profile'
-      },
-      {
-        text: 'Tasks',
+        text: 'Calculate Loan',
         path: '/tasks'
       }
     ]
