@@ -1,5 +1,5 @@
 const appInfo = {
-    title: 'Calculateloan Ui'
+    title: 'Loan Calculator'
 };
 export default appInfo;
 

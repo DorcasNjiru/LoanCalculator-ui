@@ -8,10 +8,10 @@ export const navigation = [
     text: 'Loan Calculator',
     icon: 'folder',
     items: [
-      // {
-      //   text: 'Profile',
-      //   path: '/profile'
-      // },
+      {
+        text: 'Profile',
+        path: '/profile'
+      },
       {
         text: 'Calculate Loan',
         path: '/tasks'

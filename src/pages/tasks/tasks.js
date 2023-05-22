@@ -265,6 +265,7 @@ export default function Task() {
         columnAutoWidth={true}
         columnHidingEnabled={true}
         onExporting={onExporting}
+        keyExpr={'count'}
       >
         <Paging defaultPageSize={10} />
         <Pager showPageSizeSelector={true} showInfo={true} />
